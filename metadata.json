@@ -1,0 +1,6 @@
+{
+  "name": "Personal Commission Gallery",
+  "description": "A Pixiv-style gallery for archiving, browsing, and managing personal commissioned illustrations, novels, and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
